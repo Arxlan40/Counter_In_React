@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This is my first project with React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple counter application in which we have reset option.
 
 ## Available Scripts
 
